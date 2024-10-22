@@ -1,0 +1,27 @@
+
+
+
+h4{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: 800;
+}
+.youtube-video-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.youtube-video {
+    width: 300px;
+}
+
+.youtube-video-thumbnail {
+    width: 100%;
+    height: auto;
+}
+
+.youtube-video-title {
+    font-size: 16px;
+    margin-top: 8px;
+}
